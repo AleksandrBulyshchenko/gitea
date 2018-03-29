@@ -111,6 +111,7 @@ func NewMacaron() *macaron.Macaron {
 		Secret:     setting.SecretKey,
 		Cookie:     setting.CSRFCookieName,
 		SetCookie:  true,
+		Secure:     setting.SessionConfig.Secure,
 		Header:     "X-Csrf-Token",
 		CookiePath: setting.AppSubURL,
 	}))
