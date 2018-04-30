@@ -426,10 +426,10 @@
 			"revisionTime": "2015-11-23T22:51:53Z"
 		},
 		{
-			"checksumSHA1": "i52HJHpyI3avut3QAIrrD0h7gmY=",
+			"checksumSHA1": "PQp3Nkdw+nIgnt2B7eiHbnp9KEs=",
 			"path": "github.com/go-macaron/csrf",
-			"revision": "6a9a7df172cc1fcd81e4585f44b09200b6087cc0",
-			"revisionTime": "2016-03-13T01:51:27Z"
+			"revision": "503617c6b37257a55dff6293ec28556506c3a9a8",
+			"revisionTime": "2018-04-26T21:12:11Z"
 		},
 		{
 			"checksumSHA1": "Rp4MJ0xFAy00EC0zlnwCpTEdYY8=",
